@@ -1,4 +1,11 @@
+# Dependencies
 node_modules
+
+# Husky Bug
 .husky/commit-msg
-.postgres
+
+# Enviroment Variables
 .env
+
+# Postgres Volume
+.postgres
